@@ -1,5 +1,15 @@
 h1 {
     font-size: 50px;
-    color: aquamarine;
+    color: saddlebrown;
+    background-color: darkgray;
 }
 
+#myHeader {
+    color: fuchsia;   
+}
+
+.myParagraph {
+    font-size: 50px;
+    color: blueviolet;
+    border: 1px solid pink;
+}
