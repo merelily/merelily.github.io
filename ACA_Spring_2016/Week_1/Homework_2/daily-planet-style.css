@@ -30,3 +30,7 @@ footer {
 li {
     display: inline;
 }
+
+p {
+    text-align:justify;
+}
