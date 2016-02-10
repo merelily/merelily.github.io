@@ -1,0 +1,41 @@
+#header { 
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+
+section {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#header {
+    background: #0171C5;
+    color: #ffffff;
+}
+
+ ul {
+    list-style-type: none;
+ }
+
+li {
+    display: inline;
+    color: #ffffff;
+    text-align: left;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+#customerSupport {
+    background: #F3F3F3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
