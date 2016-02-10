@@ -22,3 +22,11 @@ aside {
 footer {
     clear: both;
 }
+
+ ul {
+    list-style-type: none;
+ }
+
+li {
+    display: inline;
+}
