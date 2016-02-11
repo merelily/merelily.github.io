@@ -23,11 +23,11 @@ p {
  }
 
 li {
-    display: inline;
-    color: #ffffff;
-    text-align: left;
-    text-decoration: underline;
-    padding: 0px;
+    display:inline;
+}
+
+li a {
+    color: #fff;
 }
 
 h2 {
