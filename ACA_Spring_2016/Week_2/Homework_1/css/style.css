@@ -1,6 +1,8 @@
 #header { 
     font-family: sans-serif;
     padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 5px;
 }
 
 section {
@@ -25,6 +27,7 @@ li {
     color: #ffffff;
     text-align: left;
     text-decoration: underline;
+    padding: 0px;
 }
 
 h2 {
@@ -35,11 +38,31 @@ h2 {
     background: #F3F3F3;
     padding-top: 10px;
     padding-bottom: 10px;
+    clear:both;
 }
 
 img {
-    width: 40%;
+    width: 100%;
 }
 
+#blueComputer {
+    float: right
+}
 
+#readyWake {
+    padding-bottom: 75px;
+    padding-top: 75px;
+}
 
+#ssd { 
+    float: left;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+#architect { 
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
