@@ -43,3 +43,7 @@ strong.highlight {
 li:hover {
     color:white;
 }
+
+li:nth-child(2) {
+    color: blue; 
+}
