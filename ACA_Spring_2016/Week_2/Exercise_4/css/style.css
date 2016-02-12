@@ -35,3 +35,11 @@ strong.highlight {
 #ex4 aside h4 {
     color: purple;
 }
+
+#example > article > p {
+    color: red;
+}
+
+li:hover {
+    color:white;
+}
