@@ -47,15 +47,20 @@ img {
 }
 
 #blueComputer {
-    float: right
+    float: right;
+    width: 50%;
+    
 }
 
 #readyWake {
-  padding-top: 75px;
+    float: left;
+    width: 50%;
+  
 }
 
 #ssd { 
     float: left;
+    width: 50%;
 }
 
 h3 {
@@ -63,8 +68,15 @@ h3 {
 }
 
 #architect { 
-    padding-top: 75px;
-    padding-bottom: 50px;
+    width: 50%;
+    float: right;
 }
 
+#readyComp {
+    width: 100%;
+}
+
+#ssdArch {
+    width:100%;
+}
 
