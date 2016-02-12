@@ -18,15 +18,11 @@ p {
     color: #ffffff;
 }
 
- ul {
-    list-style-type: none;
- }
-
-li {
-    display:inline;
+nav p {
+    display: inline;
 }
 
-li a {
+nav a {
     color: #fff;
 }
 
