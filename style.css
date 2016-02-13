@@ -13,3 +13,11 @@ a {
 h1 { 
     font-family: monospace;
 }
+
+a:hover {
+    color: darkturquoise;
+}
+
+#header { 
+    line-height: 2px;
+}
