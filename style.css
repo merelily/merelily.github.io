@@ -10,10 +10,6 @@ a {
     font-family: monospace;
 }
 
-h1 { 
-    font-family: monospace;
-}
-
 a:hover {
     color: darkturquoise;
 }
@@ -24,4 +20,8 @@ a:hover {
 
 #bomb {
     width: 20px;
+}
+
+h1 {
+  font-family: 'Permanent Marker', serif;
 }
