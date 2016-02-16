@@ -47,3 +47,9 @@ nav {
 .circleIcon {
     margin-left: 400px;
 }
+
+#sunflowers:hover {
+    opacity: 0.9;
+    background: #34d1bf;
+    border-radius: 200px;
+}
