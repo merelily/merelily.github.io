@@ -38,7 +38,7 @@ nav {
     width: 200px;
 }
 
-#posin:hover {
+.circleIcon:hover {
     opacity: 0.9;
     border-radius: 200px;
     background: #34d1bf;
@@ -46,10 +46,4 @@ nav {
 
 .circleIcon {
     margin-left: 400px;
-}
-
-#sunflowers:hover {
-    opacity: 0.9;
-    background: #34d1bf;
-    border-radius: 200px;
 }
