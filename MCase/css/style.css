@@ -1,3 +1,35 @@
-h1 {
+* {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+h1, h2 {
   font-family: 'Permanent Marker', serif;
+}
+
+h4, p { 
+    font-family: monospace;
+}
+
+#header { 
+    line-height: 30px;
+    text-align: center;
+    background-color: #e55934;
+    padding-top: 15px;
+    padding-bottom: 10px; 
+}
+
+body {
+    background-color: #dbd053;
+}
+
+nav { 
+    display: inline;
+}
+
+#shine {
+    text-align: center;
+    animation: type 4s steps(60, end); 
 }
