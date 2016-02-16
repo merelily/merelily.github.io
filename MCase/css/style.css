@@ -27,9 +27,14 @@ body {
 
 nav { 
     display: inline;
+    font-family: monospace;
 }
 
 #shine {
     text-align: center;
     animation: type 4s steps(60, end); 
+}
+
+#circlePic {
+    width: 400px;
 }
