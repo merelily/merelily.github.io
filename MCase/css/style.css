@@ -30,20 +30,19 @@ nav {
     font-family: monospace;
 }
 
-#shine {
-    text-align: center;
-    animation: type 4s steps(60, end); 
-}
-
-#circlePic {
-    width: 300px;
-}
-
 #more {
     text-align: center;
 }
 
-button {
-    color: white;
-    background: #494242; 
+#posin {
+    width: 200px;
+}
+
+#posin:hover {
+    opacity: 0.3;
+    
+}
+
+.circleIcon {
+    margin-left: 400px;
 }
