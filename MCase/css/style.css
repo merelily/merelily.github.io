@@ -48,23 +48,19 @@ a:hover {
     color: #34d1bf;
 }
 
-.center {
-    width:50%; 
-    margin-left:25%; 
-    margin-right:25%;
+table {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 25px;
-  }
+}
 
 #emailMe {
     background: #555;
     color: white;
     padding: 5px 5px 5px 5px;
     text-align: center;
-    width: 100px;
-    margin-left: 45%;
-    margin-top: 20px;
+    width: 20%;
 }
 
 #emailMe a {
@@ -76,11 +72,17 @@ a:hover {
 #aboutMe { 
     text-align: center; 
     padding: 10px 10px 10px 10px;
+    width: 70%; 
+    margin-left: 15%; 
+    margin-right: 15%;
 }
 
 #experienceSkills { 
     text-align: center; 
     padding: 10px 10px 10px 10px;
+    width: 70%; 
+    margin-left: 15%; 
+    margin-right: 15%;
 }
 
 .slashDivider {
@@ -92,4 +94,7 @@ a:hover {
 
 #contactMe { 
     text-align: center;
+    width: 70%; 
+    margin-left: 15%; 
+    margin-right: 15%;
 }
