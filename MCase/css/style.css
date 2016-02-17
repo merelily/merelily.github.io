@@ -76,3 +76,13 @@ table {
     color: white;
     font-family: 'Permanent Marker', serif;
 }
+
+#aboutMe { 
+    text-align: center; 
+    padding: 10px 10px 10px 10px;
+}
+
+#experienceSkills { 
+    text-align: center; 
+    padding: 10px 10px 10px 10px;
+}
