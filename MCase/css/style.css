@@ -60,3 +60,19 @@ table {
     margin-top: 25px;
     text-align: center;
   }
+
+#emailMe {
+    background: #555;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    width: 100px;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+
+#emailMe a {
+    text-decoration: none;
+    color: #34d1bf;
+    font-weight: bold;
+}
