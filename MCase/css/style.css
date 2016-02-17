@@ -48,10 +48,6 @@ a:hover {
     color: #34d1bf;
 }
 
-table {
-    float:inherit;
-}
-
 .center {
     width:50%; 
     margin-left:25%; 
