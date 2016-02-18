@@ -1,0 +1,61 @@
+body {
+    font-family: arial;
+    width: 850px;
+    height: 774px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    left: 350px;
+    font-size: 75px;
+}
+
+#galaxy {
+    position: relative;
+    width: 850px;
+    padding-bottom: 20px;
+}
+
+.info {
+    background: #E6E6E6
+}
+
+#socialMedia, #officeInfo, #contactUs {
+    float: left;
+    width: 270px;
+    padding-left: 13px;
+}
+
+#send {
+    background: #4D4D4D; 
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    width: 40px;
+    margin-top: 10px;
+}
+
+#nameBox { 
+    width: 200px; 
+    height: 30px;
+    background: white;
+}
+
+#messageBox { 
+    width: 200px;
+    height: 100px;
+    background: white;
+}
+
+#greyFooter {
+    background: #E6E6E6;
+    height: 324px;
+    width: 850px;
+}
+
+p {
+    font-size: 0.8em;
+}
