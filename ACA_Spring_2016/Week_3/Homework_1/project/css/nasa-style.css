@@ -2,22 +2,24 @@ body {
     font-family: arial;
     width: 850px;
     height: 774px;
-    background-repeat: no-repeat;
     margin: auto;
 }
 
 h1 {
     color: white;
-    position: absolute;
     top: 150px;
     font-size: 75px;
+    padding-top: 20%;
 }
 
-
-#galaxy {
-    position: relative;
+#header {
+    text-align: center;
+    margin:auto;
     width: 850px;
-    padding-bottom: 20px;
+    height: 450px;
+    width: 850px;
+    margin-bottom: 20px;
+    background-image: url('../img/nasa-background.jpg');
 }
 
 .info {
