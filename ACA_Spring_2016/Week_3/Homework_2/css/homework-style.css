@@ -1,0 +1,48 @@
+* {
+   font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    width: 100%;
+    line-height: 2em;
+}
+
+#leftBlock {
+    background: #F7F7F7;
+    float: left;
+    width: 40%;
+    height: 400px;
+}
+
+.rightBlocks {
+    background: #F7F7F7;
+    float: right;
+    width: 40%;
+    height: 100px; 
+}
+
+a { 
+    color: #B0C299;
+    text-align: right; 
+}
+
+.rightBlocks img { 
+    width: 50%;
+}
+
+.rightBlocks p {
+    float: right;
+}
+
+.pics {
+    float: left;
+}
+
+#header {
+    text-align: center;
+    padding-top: 20px; 
+    padding-bottom: 30px;
+}
+
+.bottom { 
+    width: 30%;
+    float: right;
+}
