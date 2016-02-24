@@ -39,28 +39,45 @@ a {
 #growing {
     background-image: url('../img/featured-image-3.jpg');
     background-size: cover;
+    height: 200px;
 }
 
 #landscaping {
     background-image: url('../img/featured-image-4.jpg');
     background-size: cover;
-    width: 68%;
+    width: 570px;
+    height: 410px;
     float: left;
-    margin-left: 2%;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 1.5;
 }
 
 #landscaping p {
     color: white;
+    margin-bottom: 20px;
 }
 
 #plantCare {
     background-image: url('../img/featured-image-5.jpg');
     background-size: cover;
-    margin-top: 7%;
+    margin-top: 10px;
+    height: 200px;
 }
 
-.opacity > div {
+#growing > div {
     background-color: rgba(0, 0, 0, 0.5);
+    height: 200px;
+}
+
+#plantCare > div {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 200px;
+}
+
+#landscaping > div {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 410px;
 }
 
 .opacity { 
@@ -69,10 +86,33 @@ a {
 
 #left {
     float: left;
-    width: 30%;
+    width: 300px;
+    margin-left: 10px;
 }
 
 main {
     height: 250px;
 }
 
+.services {
+    margin: auto; 
+    width: 900px;
+    margin-top: 10px;
+}
+
+#products { 
+    border: solid 2px white; 
+    opacity: 100%;
+    background: none;
+    margin-top: 20px;
+}
+
+#about {
+    background: #555;
+    margin-top: 20px;
+}
+
+.marginL {
+    margin-left: 40px;
+    line-height: 2.5;
+}
