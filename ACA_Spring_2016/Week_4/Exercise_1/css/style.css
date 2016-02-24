@@ -9,6 +9,12 @@
 h1 { 
     font-family: sans-serif;
     font-size: 1.4em;
+    color: white;
+}
+
+h2 {
+    color: #92B302;
+    font-family: sans-serif;
 }
 
 h4 {
@@ -29,3 +35,44 @@ a {
     background-color: rgba(0, 0, 0, 0.5);
     padding: 100px;
 }
+
+#growing {
+    background-image: url('../img/featured-image-3.jpg');
+    background-size: cover;
+}
+
+#landscaping {
+    background-image: url('../img/featured-image-4.jpg');
+    background-size: cover;
+    width: 68%;
+    float: left;
+    margin-left: 2%;
+}
+
+#landscaping p {
+    color: white;
+}
+
+#plantCare {
+    background-image: url('../img/featured-image-5.jpg');
+    background-size: cover;
+    margin-top: 7%;
+}
+
+.opacity > div {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.opacity { 
+    width: 100%;
+}
+
+#left {
+    float: left;
+    width: 30%;
+}
+
+main {
+    height: 250px;
+}
+
