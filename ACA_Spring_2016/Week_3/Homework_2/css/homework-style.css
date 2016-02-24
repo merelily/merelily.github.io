@@ -98,6 +98,9 @@ ul {
 
 hr {
     clear:both;
-    margin-top: 3%;
+}
+
+#top {
+    margin-bottom: 30%;
 }
 
