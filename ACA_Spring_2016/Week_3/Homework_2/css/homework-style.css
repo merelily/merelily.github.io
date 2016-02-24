@@ -85,6 +85,7 @@ h3 {
 
 ul {
     padding-bottom: 2.5%;
+    list-style-type: none;
 }
 
 #main { 
