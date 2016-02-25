@@ -110,6 +110,8 @@ main {
 #about {
     background: #555;
     margin-top: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .marginL {
