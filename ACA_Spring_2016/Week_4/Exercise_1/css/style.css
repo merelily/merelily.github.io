@@ -117,9 +117,13 @@ main {
 .marginL {
     margin-left: 35px;
     margin-right: 20px;
-    line-height: 2.5;
+    line-height: 2;
 }
 
 .services h1 {
     padding-top: 20px;
+}
+
+#landscaping p { 
+    font-size: 0.8rem
 }
