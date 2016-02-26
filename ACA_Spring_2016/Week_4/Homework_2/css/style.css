@@ -15,7 +15,8 @@ h1 {
 nav li { 
     display: inline-block;
     padding-top: 2%; 
-    padding-left: 10px;
+    padding-left: 15px;
+    font-size: 0.8em;
 }
 
 a {
@@ -35,3 +36,17 @@ nav ul {
    line-height: 0;
    visibility: hidden;
 }
+
+main { 
+    background-image: url(../img/wine-bg.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white; 
+}
+
+main > div { 
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 150px;
+}
+
+
