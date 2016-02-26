@@ -49,4 +49,24 @@ main > div {
     padding: 150px;
 }
 
+.twoBoxes {
+    width: 100%;
+    text-align: center;
+}
 
+.twoBoxes div:first-child { 
+    width: 60%; 
+}
+
+.twoBoxes div:nth-child(2) {
+    width: 40%; 
+}
+    
+.twoboxes div { 
+    float: left;
+}
+
+.twoBoxes div img { 
+    width: 70%;
+    margin-left: 15%;
+}
