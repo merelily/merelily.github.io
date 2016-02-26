@@ -120,8 +120,16 @@ main {
     line-height: 2;
 }
 
-.services h1 {
-    padding-top: 20px;
+#plantCare h1 {
+    padding-top: 60px;
+}
+
+#growing h1 {
+    padding-top: 60px;
+}
+
+#landscaping h1 {
+    padding-top: 80px;
 }
 
 #landscaping p { 
