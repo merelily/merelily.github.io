@@ -52,21 +52,23 @@ main > div {
 .twoBoxes {
     width: 100%;
     text-align: center;
+    float: left;
 }
 
 .twoBoxes div:first-child { 
-    width: 60%; 
+    width:  60%; 
 }
 
 .twoBoxes div:nth-child(2) {
     width: 40%; 
-}
+} 
     
 .twoboxes div { 
-    float: left;
+/*    float: left;*/
 }
 
 .twoBoxes div img { 
     width: 70%;
     margin-left: 15%;
+/*    float: right;*/
 }
