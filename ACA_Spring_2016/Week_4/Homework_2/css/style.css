@@ -104,6 +104,17 @@ main > div {
     padding: 100px;
 }
 
+#wines {
+    width: 20%;
+    text-align: center;
+}
+
 #wines img {
     width: 50%;
 }
+
+#button {
+    background: #91A05D;
+    color: white; 
+}
+        
