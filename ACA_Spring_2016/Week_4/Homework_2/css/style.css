@@ -59,6 +59,12 @@ main > div {
     text-align: center;
 }
 
+.twoBoxes p { 
+    font-size: 0.8em;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .twoBoxes div:first-child { 
     width:  60%; 
     float: left;
@@ -104,17 +110,39 @@ main > div {
     padding: 100px;
 }
 
-#wines {
-    width: 20%;
-    text-align: center;
-}
 
 #wines img {
     width: 50%;
 }
 
+#wines p { 
+    font-size: 0.8em;
+}
+
 #button {
     background: #91A05D;
     color: white; 
+    width: 40%;
+    text-align: center;
+    font-size: 0.7em;
+    padding: 5px;
+    margin-left: 29%;
+    margin-top: 5%;
+    margin-bottom: 15%;
 }
-        
+
+#wines > div {
+    float: right;
+    width: 25%;
+    text-align: center;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+#wines h3 {
+    font-family: serif;
+    font-weight: 900;
+    font-size: 1.3rem;
+    font-style: italic;
+    padding: 2%;
+}
