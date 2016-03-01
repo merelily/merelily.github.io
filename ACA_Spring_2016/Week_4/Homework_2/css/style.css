@@ -68,7 +68,7 @@ main > div {
 .twoBoxes div:first-child { 
     width:  60%; 
     float: left;
-    padding-top: 10%;
+    padding-top: 12%;
 }
 
 .twoBoxes div:nth-child(2) {
