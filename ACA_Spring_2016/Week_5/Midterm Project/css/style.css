@@ -59,19 +59,36 @@ ul a:hover {
 }
 
 #fourThings {
-    width: 20%;
-    text-align: center;    
+    text-align: center;   
+    padding-left: 4%;
+    padding-right: 4%;
 }
 
 #fourThings img {
     width: 100%;
 }
 
-/*
 #fourThings div {
+    float: right; 
+    width: 21%; 
     height: 300px;
+    padding: 2%;
 }
-*/
+
+#foodPatio {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#foodPatio div {
+    width: 30%;
+    float: left; 
+    margin-top: 7%;
+}
+
+#foodPatio img { 
+    width: 100%;
+}
 
 .clearfix:after {
    clear: both;
@@ -82,9 +99,9 @@ ul a:hover {
    visibility: hidden;
 }
 
-.float {
-    border: 1px red solid;
-    float: right;
+#footer {
+    text-align: center;
+    background-image: url(../img/HardLuckPaint.jpg);
 }
 
 
