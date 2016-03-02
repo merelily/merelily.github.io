@@ -146,3 +146,7 @@ main > div {
     font-style: italic;
     padding: 2%;
 }
+
+#italic {
+    font-style: italic;
+}
