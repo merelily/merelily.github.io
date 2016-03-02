@@ -1,7 +1,3 @@
-* {
-    border: solid red 1px;
-}
-
 main {
     background-image: url(../img/HLStreetView.png);
     background-repeat: no-repeat;
@@ -48,7 +44,7 @@ ul a:hover {
 
 #ColdAssDrinks { 
     width: 40%;
-    float:left;
+    float: left;
 }
 
 #about { 
@@ -71,14 +67,11 @@ ul a:hover {
     width: 100%;
 }
 
+/*
 #fourThings div {
     height: 300px;
-/*    float: left;*/
 }
-
-.float {
-    float: right;
-}
+*/
 
 .clearfix:after {
    clear: both;
@@ -87,6 +80,11 @@ ul a:hover {
    height: 0;
    line-height: 0;
    visibility: hidden;
+}
+
+.float {
+    border: 1px red solid;
+    float: right;
 }
 
 
