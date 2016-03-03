@@ -1,14 +1,16 @@
 main {
-    background-image: url(../img/HLStreetViewSepia.png);
+    background-image: url(../img/yellow_floral.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 main > div {
-    padding-top: 20%; 
-    padding-bottom: 20%;
+    padding-top: 12%; 
+    padding-bottom: 12%;
     color: white;
     text-align: center;
+    background: rgba(63,29,11,0.7);
+    line-height: 1.5;
 }
 
 #headerLogo {
@@ -27,6 +29,7 @@ ul li {
     display: inline;
     padding-left: 2%;
     padding-top: 6%;
+    font-family: 'Yellowtail', cursive;
 }
 
 ul a {
@@ -75,17 +78,17 @@ ul a:hover {
     height: 275px;
 }
 
-#foodPatio {
-    padding-left: 15%;
-    padding-right: 15%;
+#foodPatio { 
+    text-align: center;
 }
 
 #foodPatio div {
+    float: right; 
     width: 30%;
-    float: left; 
+    padding: 1%;
 }
 
-#foodPatio img { 
+#foodPatio img {
     width: 100%;
 }
 
@@ -106,14 +109,16 @@ ul a:hover {
     padding-bottom: 5%;
 }
 
-
-
-
-/*
-#gradientStuff {
-    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.8) 100%), url('../img/wine-bg.jpg') no-repeat center;
-    padding: 200px 0;
-    text-align: center;
-    color: #fff;
+h2 {
+    font-family: 'Yellowtail', cursive;
+    font-size: 3em;
 }
-*/
+
+h3 { 
+    font-family: 'Yellowtail', cursive;
+    font-size: 2em;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+}
