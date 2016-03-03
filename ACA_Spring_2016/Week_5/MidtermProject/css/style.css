@@ -13,6 +13,14 @@ main > div {
     line-height: 1.5;
 }
 
+main a {
+    border: white solid 2px;
+    padding: 10px;
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
 #headerLogo {
     width: 10%;
     float: left;
@@ -57,8 +65,9 @@ ul a:hover {
 }
 
 #aboutText {
-    padding-top: 5%;
-    
+    padding-top: 2%;
+    padding-left: 42%;
+    padding-right: 5%;
 }
 
 #fourThings {
@@ -102,11 +111,16 @@ ul a:hover {
 }
 
 #footer {
-    text-align: center;
     background-color: #043F0B;
     color: white; 
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    line-height: 1.5;
+}
+
+#footer a {
+    color: white;
 }
 
 h2 {
