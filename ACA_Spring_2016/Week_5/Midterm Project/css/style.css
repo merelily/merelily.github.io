@@ -1,5 +1,5 @@
 main {
-    background-image: url(../img/HLStreetView.png);
+    background-image: url(../img/HLStreetViewSepia.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -60,8 +60,8 @@ ul a:hover {
 
 #fourThings {
     text-align: center;   
-    padding-left: 4%;
-    padding-right: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 #fourThings img {
@@ -70,20 +70,19 @@ ul a:hover {
 
 #fourThings div {
     float: right; 
-    width: 21%; 
-    height: 300px;
-    padding: 2%;
+    width: 23%; 
+    padding: 1%;
+    height: 275px;
 }
 
 #foodPatio {
-    margin-right: auto;
-    margin-left: auto;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 #foodPatio div {
     width: 30%;
     float: left; 
-    margin-top: 7%;
 }
 
 #foodPatio img { 
@@ -101,7 +100,10 @@ ul a:hover {
 
 #footer {
     text-align: center;
-    background-image: url(../img/HardLuckPaint.jpg);
+    background-color: #043F0B;
+    color: white; 
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 
