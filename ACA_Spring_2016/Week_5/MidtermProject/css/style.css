@@ -2,6 +2,7 @@ main {
     background-image: url(../img/yellow_floral.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 
 main > div {
