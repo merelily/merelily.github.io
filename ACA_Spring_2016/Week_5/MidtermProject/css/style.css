@@ -22,6 +22,10 @@ main a {
     color: white;
 }
 
+main p {
+    padding-bottom: 3%;
+}
+
 #headerLogo {
     width: 10%;
     float: left;
@@ -75,6 +79,7 @@ ul a:hover {
     text-align: center;   
     padding-left: 2%;
     padding-right: 2%;
+    background: rgba(4,63,11,0.8);
 }
 
 #fourThings img {
@@ -85,7 +90,8 @@ ul a:hover {
     float: right; 
     width: 23%; 
     padding: 1%;
-    height: 275px;
+    padding-top: 6%;
+    padding-bottom: 6%;
 }
 
 #foodPatio { 
