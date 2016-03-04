@@ -1,0 +1,46 @@
+#header {
+    background-image: url(../img/pizza.png);
+    padding-top: 10%;
+    padding-bottom: 25%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: white;
+    background: black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: -10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#images {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 10%;
+}
+
+#images img { 
+    width: 30%;
+    height: 200px;
+    margin: 1%;
+}
+
+#aboutUs {
+    margin-top: 5%;
+}
+
+* {
+    font-family: sans-serif;
+}
