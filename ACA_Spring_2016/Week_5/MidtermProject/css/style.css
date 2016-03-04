@@ -94,8 +94,10 @@ ul a:hover {
 
 #foodPatio div {
     float: right; 
-    width: 30%;
+    width: 40%;
     padding: 1%;
+    margin-right: 4%;
+    margin-left: 4%;
 }
 
 #foodPatio img {
