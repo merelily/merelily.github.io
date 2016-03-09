@@ -54,9 +54,12 @@ main {
     background: #2BCDC0;
 }
     
-    
-    
+section { 
+    background: #1B1B1B;
+    color: white;
 }
+    
+
 
 /*
 .clearfix:after {
