@@ -58,7 +58,12 @@ section div {
     float: right;
     padding-left: 5%;
     padding-right: 5%;
-    padding-top: 5%;
+    padding-top: 1%;
+    background-color: #F7F7F7;
+}
+
+section h3 {
+    padding-top: 0%;
 }
     
 .clearfix:after {
