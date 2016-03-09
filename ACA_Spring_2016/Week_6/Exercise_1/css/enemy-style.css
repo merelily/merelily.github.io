@@ -31,14 +31,15 @@ section div.text {
 
 /*MEDIA QUERIES*/
 
-@media screen and (max-height: 790px) {
+@media screen and (max-width: 1000px) {
 
 section div {
     float: none;
     
 }
+    
 section div.character {
-    width: 60%;
+    width: 40%;
     margin: 0 auto;
 }
 
