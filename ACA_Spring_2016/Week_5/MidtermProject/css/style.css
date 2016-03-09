@@ -14,12 +14,17 @@ main > div {
     line-height: 1.5;
 }
 
-main a {
+#comeOn {
     border: white solid 2px;
     padding: 10px;
     font-family: 'PT Sans', sans-serif;
     text-decoration: none;
     color: white;
+}
+
+#comeOn:hover {
+    background: #043F0B;
+    border: #043F0B solid 2px; 
 }
 
 main p {
@@ -120,6 +125,19 @@ ul a:hover {
 
 #foodPatio img {
     width: 55%;
+}
+
+#facebook {
+    border: #043F0B solid 2px;
+    padding: 10px;
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
+    color: #043F0B;
+}
+
+#facebook:hover {
+    background: #043F0B;
+    color: white;
 }
 
 .clearfix:after {
