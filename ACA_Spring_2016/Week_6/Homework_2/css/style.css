@@ -30,6 +30,17 @@ section p {
     font-size: 0.8em;
 }
 
+.clearfix:after {
+   clear: both;
+   content: ".";
+   display: block;
+   height: 0;
+   line-height: 0;
+   visibility: hidden;
+}
+
+/*TABLET*/
+
 @media (min-width: 768px) and (max-width: 991px) {
 
 main {
@@ -39,24 +50,41 @@ main {
 
 section div {
     float: left;
+    width: 40%;
+}
+    
+section { 
+    width: 100%;
 }
 
+#left {
+    float: left;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+    
+#right {
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 
+/*LAPTOP*/
 
+@media (min-width: 992px) {
 
-
-
-
-
-
-
-.clearfix:after {
-   clear: both;
-   content: ".";
-   display: block;
-   height: 0;
-   line-height: 0;
-   visibility: hidden;
+main {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    }
+    
+section {
+    width: 100%;
+}
+    
+section div {
+    float: left;
+}
+    
 }
