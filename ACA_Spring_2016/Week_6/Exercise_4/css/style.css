@@ -23,3 +23,9 @@ ul {
 img {
     width: 100%;
 }
+
+.my_footer {
+    background-color: darkcyan;
+    margin-top: 1.5%;
+    height: 35px;
+}
