@@ -1,0 +1,31 @@
+.my_nav { 
+    background-color: #acbdba;
+}
+
+.my_nav img { 
+    width: 20%;
+}
+
+.my_nav li {
+    text-decoration: none; 
+    display: inline; 
+    float: right; 
+    padding: 0 1%;
+}
+
+.my_nav a {
+    color: white;
+}
+
+.clearfix:after {
+   clear: both;
+   content: ".";
+   display: block;
+   height: 0;
+   line-height: 0;
+   visibility: hidden;
+}
+
+.my_search { 
+    padding-top: 2%;
+}
