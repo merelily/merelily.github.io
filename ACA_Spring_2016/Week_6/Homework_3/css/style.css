@@ -15,5 +15,19 @@
 }
 
 .fourpics img {
-    padding-top: 1.5%;
+    padding: 0.5%;
+}
+
+#call {
+    background-color: #e23622;
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+}
+
+.my_footer {
+    background-color: #acbdba;
+    margin-top: 2%;
+    height: 100%;
+    padding-top: 1%;
 }
