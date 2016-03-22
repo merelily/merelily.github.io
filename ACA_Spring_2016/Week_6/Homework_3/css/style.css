@@ -42,3 +42,7 @@
     padding-bottom: 2%;
     padding-top: 1%;
 }
+
+body {
+    overflow-x: hidden;
+}
