@@ -46,3 +46,9 @@
 body {
     overflow-x: hidden;
 }
+
+#my_nav {
+    background-color: #acbdba;
+    border: solid 1px #acbdba;
+    border-radius: 1px;
+}
