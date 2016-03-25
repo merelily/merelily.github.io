@@ -1,0 +1,38 @@
+body {
+    overflow-x: hidden;
+}
+
+.myLogo {
+    width: 150px;
+}
+
+.myHeader {
+    background-color: rgba(49,98,47,0.35);
+    padding: 15px 0;
+}
+
+.myNav {
+    border-radius: 0;
+    background-color: #F4BBA2;
+    border: none;
+}
+
+.navbar-default .navbar-nav > li > a { 
+    color: white;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.carousel-inner { 
+    max-height: 350px;
+}
+
+#myPeach {
+    width: 100%;
+}
