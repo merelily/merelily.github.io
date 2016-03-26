@@ -29,10 +29,15 @@ body {
     color: white;
 }
 
-.carousel-inner { 
-    max-height: 350px;
-}
-
 #myPeach {
     width: 100%;
+    margin-bottom: 6%;
+}
+
+#carousel-example-generic {
+    margin-bottom: 2%;
+}
+
+p { 
+    font-size: 0.8em;
 }
