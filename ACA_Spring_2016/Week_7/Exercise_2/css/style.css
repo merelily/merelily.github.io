@@ -35,16 +35,11 @@ body {
 }
 
 #carousel-example-generic {
-    margin-bottom: 2%;
+    margin-bottom: 6%;
 }
 
 p { 
     font-size: 0.8em;
-}
-
-.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    margin-top: 2%;
-    margin-bottom: 2%;
 }
 
 .divider {
@@ -98,11 +93,14 @@ section {
   color:#efefef;
 }
 
-
 .modal-dialog {
     width:322px;
 }
 
 .thumbnail {
     margin-bottom:6px;
+}
+
+h1, .h1 {
+    color: black;
 }
