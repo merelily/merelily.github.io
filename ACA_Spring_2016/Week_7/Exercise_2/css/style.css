@@ -98,11 +98,11 @@ section {
   color:#efefef;
 }
 
-.modal {
-    width:600px;
+
+.modal-dialog {
+    width:322px;
 }
 
-
-.thumbnail img {
-    width:120px;
+.thumbnail {
+    margin-bottom:6px;
 }
