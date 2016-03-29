@@ -69,13 +69,13 @@ section {
 }
 
 .bg-1 {
-	background: url('../img/punklips.png') no-repeat center center fixed;
+	background: url('../img/pinupback.jpg') no-repeat center center fixed;
     color:#fff;
     background-size:cover;
 }
   
 .bg-2 {
-	background: url('/assets/example/bg_suburb.jpg') no-repeat top center fixed;
+	background: url('../img/peachyback.jpg') no-repeat top center fixed;
     color:#fff;
     background-size:cover;
 }
@@ -98,3 +98,11 @@ section {
   color:#efefef;
 }
 
+.modal {
+    width:600px;
+}
+
+
+.thumbnail img {
+    width:120px;
+}
