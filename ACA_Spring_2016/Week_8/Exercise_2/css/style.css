@@ -34,5 +34,13 @@
 
 
 .divider {
-    height:50px;
+    height: 50px;
+}
+
+.four_items img {
+    height: 150px;
+}
+    
+.hide_me {
+    visibility: hidden;
 }
