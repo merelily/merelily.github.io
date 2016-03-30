@@ -1,0 +1,18 @@
+.my_container {
+    height: 1200px;
+}
+
+#middle {
+    margin-top: 7%;
+}
+
+h1 {
+    padding-bottom: 5%;
+}
+
+#bldg {
+    background-image: url(../img/bldg.jpg);
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
