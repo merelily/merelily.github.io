@@ -1,0 +1,19 @@
+img { 
+    width: 100%;
+}
+
+.my_small { 
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.my_big { 
+    padding-top: 4%;
+}
+
+#footer {
+    background-color: #555;
+    padding: 2%;
+    text-align: center;
+    color: white;
+}
