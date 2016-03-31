@@ -6,7 +6,7 @@ $(document).ready(function () {
 
         if(verticalScroll >= 0) {
 
-            $('.my_bigtop').addClass('animated fadeIn');
+            $('.my_bigtop').addClass('animated flash');
         }
 
     });
@@ -15,9 +15,20 @@ $(document).ready(function () {
 
         var verticalScroll = $(this).scrollTop();
 
-        if(verticalScroll >= 40) {
+        if(verticalScroll >= 100) {
 
-            $('.my_smallbottom').addClass('animated jello');
+            $('.my_small').addClass('animated jello infinite');
+        }
+
+    });
+    
+      $(window).scroll(function() {
+
+        var verticalScroll = $(this).scrollTop();
+
+        if(verticalScroll >= 600) {
+
+            $('.my_small').addClass('animated jello infinite');
         }
 
     });
