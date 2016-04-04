@@ -4,9 +4,9 @@ $(document).ready(function () {
 
         var verticalScroll = $(this).scrollTop();
 
-        if(verticalScroll >= x) {
+        if(verticalScroll >= 1) {
 
-            $('#element').addClass('effect');
+            $('#my_down').addClass('animated bounce');
         }
 
     });
