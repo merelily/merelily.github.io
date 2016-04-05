@@ -94,6 +94,12 @@ a {
   background:transparent;
 }
 
+/*PROJECTS*/
+
+#my_projects h5 {
+    color: #00635d;
+}
+
 
 
 /*MEDIA QUERIE XS*/
