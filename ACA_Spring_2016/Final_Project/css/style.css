@@ -72,6 +72,7 @@ a {
 
 #my_bio h3{ 
     color: #e3b23c;
+    padding-top: 2%;
 }
 
 /*PARALLAX*/
@@ -96,9 +97,22 @@ a {
 
 /*PROJECTS*/
 
-#my_projects h5 {
+#my_projects h4 {
     color: #00635d;
 }
+
+#my_projects h3 { 
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.my_circle {
+    width: 65%;
+    margin-bottom: 30%;
+}
+
+/*MODAL*/
+
 
 
 
