@@ -108,13 +108,41 @@ a {
 
 .my_circle {
     width: 65%;
-    margin-bottom: 30%;
+    margin-bottom: 10%;
 }
 
-/*MODAL*/
+.my_skills {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
 
+/*RESUME*/
 
+#my_resume {
+    padding-top: 5%;
+}
 
+/*CONTACT*/
+
+#my_contact {
+    background: #e3b23c;
+    padding-bottom: 5%; 
+    padding-top: 3%;
+    margin-top: 5%;
+    color: white;
+}
+
+#email_me {
+    color: white;
+}
+
+/*FOOTER*/
+
+.my_footer {
+    background: #3a3a3a;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
 
 /*MEDIA QUERIE XS*/
 
