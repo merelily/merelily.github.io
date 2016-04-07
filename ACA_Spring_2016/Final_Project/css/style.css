@@ -111,18 +111,24 @@ a {
     margin-bottom: 10%;
 }
 
-.my_skills {
-    padding-top: 3%;
-    padding-bottom: 3%;
-}
 
 /*SKILLS*/
 
+ .my_skills {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
 
 /*RESUME*/
 
 #my_resume {
     padding-top: 5%;
+}
+
+#my_break {
+    background: #00635d;
+    padding-top:5%;
+    padding-bottom: 5%;
 }
 
 /*CONTACT*/
