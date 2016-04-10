@@ -118,6 +118,11 @@ a {
     margin-bottom: 10%;
 }
 
+/*MODAL*/
+
+.modal-dialog { 
+    width: 35%;
+}
 
 /*SKILLS*/
 
