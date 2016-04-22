@@ -17,7 +17,7 @@ $(document).ready(function () {
 
         var verticalScroll = $(this).scrollTop();
 
-        if (verticalScroll >= 1250) {
+        if (verticalScroll >= 1200) {
 
             $('#blue_photo').addClass('animated fadeInLeft');
             $('#blue_photo').removeClass('hide_me');
@@ -52,9 +52,9 @@ $(document).ready(function () {
 
         var verticalScroll = $(this).scrollTop();
 
-        if (verticalScroll >= 2550) {
+        if (verticalScroll >= 2250) {
 
-            $('#my_faq').addClass('animated tada');
+            $('#my_faq').addClass('animated bounce');
         }
 
     });
