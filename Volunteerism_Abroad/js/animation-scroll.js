@@ -52,7 +52,7 @@ $(document).ready(function () {
 
         var verticalScroll = $(this).scrollTop();
 
-        if (verticalScroll >= 2750) {
+        if (verticalScroll >= 2550) {
 
             $('#my_faq').addClass('animated tada');
         }
