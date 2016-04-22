@@ -106,6 +106,10 @@ body {
     width:70%;
 }
 
+#carousel_h1 {
+    font-size: 3em;
+}
+
 /* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
