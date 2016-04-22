@@ -29,7 +29,7 @@ $(document).ready(function () {
 
         var verticalScroll = $(this).scrollTop();
 
-        if (verticalScroll >= 1500) {
+        if (verticalScroll >= 1600) {
 
             $('#class_photo').addClass('animated fadeInRight');
             $('#class_photo').removeClass('hide_me');
