@@ -1,0 +1,11 @@
+#content .partner_words p{
+    text-align: left;
+    font-size: .85em;
+    line-height: 150%;
+}
+
+#primary-menu{
+    float:none;
+    margin-left:0;
+}
+
