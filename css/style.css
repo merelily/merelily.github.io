@@ -1,21 +1,231 @@
-h1, p {
-    font-family: 'Grand Hotel', cursive;
+/*NAV AND TOP*/
+
+body { 
+    background: #ffffff;
 }
 
-h3, h5 {
-    font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
+body.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    width:100%;
+    overflow-x: hidden;
 }
 
-p {
-    font-size: 1.3em;
+img {
+    width: 100%;
 }
 
-#words {
-    background-color: rgba(255, 255, 255, 0.7);
+p, a { 
+    font-family: 'Inconsolata', sans-serif;
 }
 
-body {
-    background-image: url(../img/background.jpg)
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
 }
 
+.navbar-brand { 
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+#my_nav {
+    border: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.navbar-right {
+    font-size: 2rem;
+}
+
+.navbar-default .navbar-toggle { 
+    border: none; 
+}
+
+.glyphicon-option-horizontal {
+    color: #00635d;
+}
+
+.glyphicon-menu-down { 
+    margin-top: 3%;
+}
+
+a { 
+    color: #e3b23c;
+}
+
+/*MY BIO*/
+
+#my_bio {
+    padding-top: 3%; 
+    padding-bottom: 3%;
+    background: #3a3a3a;
+    color: white;
+}
+
+#me_pop {
+    padding-top: 9%;
+}
+
+#my_bio h3{ 
+    color: #e3b23c;
+    padding-top: 2%;
+}
+
+.jumbotron {
+  height: 400px;
+  color: white;
+  text-shadow: #444 0 1px 1px;
+  background:transparent;
+}
+
+/*SKILLS*/
+
+ .my_skills {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+/*RESUME*/
+
+#my_resume {
+    padding-top: 5%;
+}
+
+/*CONTACT*/
+
+#my_contact {
+    background: #e3b23c;
+    padding-bottom: 5%; 
+    padding-top: 3%;
+    margin-top: 5%;
+    color: white;
+}
+
+#email_me {
+    color: white;
+}
+
+#my_contact h6{
+    color: white;
+    text-decoration: none;
+}
+
+/*FOOTER*/
+
+.my_footer {
+    background: #3a3a3a;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+/*KNYPINSKI HOVER*/
+
+.portfolioImages {
+    background-repeat: no-repeat;
+    height: 566px;
+    text-align: center;
+}
+
+#Symbolic {
+    background-image: url(../img/1B.gif);
+}
+
+#Symbolic:hover {
+    background-image: url(../img/1A.gif);
+}
+
+#Synthetic {
+    background-image: url(../img/1A.gif);
+}
+
+#Synthetic:hover {
+    background-image: url(../img/1B.gif);
+}
+
+#Choice {
+    background-image: url(../img/2A.gif);
+}
+
+#Choice:hover {
+    background-image: url(../img/2B.gif);
+}
+
+#Alternative {
+    background-image: url(../img/3A.gif);
+}
+
+#Alternative:hover {
+    background-image: url(../img/3B.gif);
+}
+
+#Effect {
+    background-image: url(../img/4A.gif);
+}
+
+#Effect:hover {
+    background-image: url(../img/4B.gif);
+}
+
+#Emotional {
+    background-image: url(../img/5A.gif);
+}
+
+#Emotional:hover {
+    background-image: url(../img/5B.gif);
+}
+
+#Obvious {
+    background-image: url(../img/6A.gif);
+}
+
+#Obvious:hover {
+    background-image: url(../img/6B.gif);
+}
+
+#Aesthetic {
+    background-image: url(../img/7A.gif);
+}
+
+#Aesthetic:hover {
+    background-image: url(../img/7B.gif);
+}
+
+#Detailed {
+    background-image: url(../img/8A.gif);
+}
+
+#Detailed:hover {
+    background-image: url(../img/8B.gif);
+}
+
+#Visual {
+    background-image: url(../img/9A.gif);
+}
+
+#Visual:hover {
+    background-image: url(../img/9B.gif);
+}
+
+#Execution {
+    background-image: url(../img/10A.gif);
+}
+
+#Execution:hover {
+    background-image: url(../img/10B.gif);
+}
+
+/*MEDIA QUERIE XS*/
+
+@media (max-width: 600px) {
+    .MCLogo { 
+    margin-top: 20%;
+}
+    
+/*MEDIA QUERIE SM*/
+    
+@media (min-width: 601px) {
+    .MCLogo { 
+    margin-top: 15%;
+}
