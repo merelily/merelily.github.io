@@ -132,6 +132,15 @@ a {
 
 /*KNYPINSKI HOVER*/
 
+.profile-image:hover {
+  position:absolute;
+  width: 48px;
+  height: 48px;
+  z-index: 100;
+  background: transparent url('../img/1A.gif') no-repeat;
+  cursor: pointer;
+}
+
 .portfolioImages {
     background-repeat: no-repeat;
     height: 566px;
@@ -143,7 +152,7 @@ a {
 }
 
 #Symbolic:hover {
-    background-image: url(../img/1A.gif);
+    background-image: url(../img/1AB.jpg);
 }
 
 #Synthetic {
