@@ -140,91 +140,83 @@ a {
 }
 
 #Symbolic {
-    background-image: url(../img/1B.gif);
+    background-image: url(../img/box_01_A.gif);
 }
 
 #Symbolic:hover {
-    background-image: url(../img/1AB.png);
-}
-
-#Synthetic {
-    background-image: url(../img/1A.gif);
-}
-
-#Synthetic:hover {
-    background-image: url(../img/1B.gif);
+    background-image: url(../img/box_01_B.gif);
 }
 
 #Choice {
-    background-image: url(../img/2A.gif);
+    background-image: url(../img/box_02_A.gif);
 }
 
 #Choice:hover {
-    background-image: url(../img/2B.gif);
+    background-image: url(../img/box_02_B.gif);
 }
 
 #Alternative {
-    background-image: url(../img/3A.gif);
+    background-image: url(../img/box_03_A.gif);
 }
 
 #Alternative:hover {
-    background-image: url(../img/3B.gif);
+    background-image: url(../img/box_03_B.gif);
 }
 
 #Effect {
-    background-image: url(../img/4A.gif);
+    background-image: url(../img/box_04_A.gif);
 }
 
 #Effect:hover {
-    background-image: url(../img/4B.gif);
+    background-image: url(../img/box_04_B.gif);
 }
 
 #Emotional {
-    background-image: url(../img/5A.gif);
+    background-image: url(../img/box_05_A.gif);
 }
 
 #Emotional:hover {
-    background-image: url(../img/5B.gif);
+    background-image: url(../img/box_05_B.gif);
 }
 
 #Obvious {
-    background-image: url(../img/6A.gif);
+    background-image: url(../img/box_06_A.gif);
 }
 
 #Obvious:hover {
-    background-image: url(../img/6B.gif);
+    background-image: url(../img/box_06_B.gif);
 }
 
 #Aesthetic {
-    background-image: url(../img/7A.gif);
+    background-image: url(../img/box_07_A.gif);
 }
 
 #Aesthetic:hover {
-    background-image: url(../img/7B.gif);
+    background-image: url(../img/box_07_B.gif);
 }
 
 #Detailed {
-    background-image: url(../img/8A.gif);
+    background-image: url(../img/box_08_A.gif);
 }
 
 #Detailed:hover {
-    background-image: url(../img/8B.gif);
+    background-image: url(../img/box_08_B.gif);
 }
 
 #Visual {
-    background-image: url(../img/9A.gif);
+    background-image: url(../img/box_09_A.gif);
 }
 
 #Visual:hover {
-    background-image: url(../img/9B.gif);
+    background-image: url(../img/box_09_B.gif);
 }
 
 #Execution {
-    background-image: url(../img/10A.gif);
+    background-image: url(../img/box_10_A.gif);
 }
 
 #Execution:hover {
-    background-image: url(../img/10B.gif);
+    background-image: url(../img/box_10_B.gif);
 }
 
 /*MEDIA QUERIE XS*/
